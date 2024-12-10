@@ -49,7 +49,7 @@ export default function Home() {
 
               </p>
               <a
-                href="https://play.google.com/store/apps/details?id=net.taza"
+                href="https://play.google.com/store/apps/details?id=#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -252,7 +252,7 @@ export default function Home() {
               </p>
               <a
                 target="_blank"
-                href="https://play.google.com/store/apps/details?id=net.taza"
+                href="https://play.google.com/store/apps/details?id=#"
                 rel="noopener noreferrer"
               >
                 <Image
@@ -305,7 +305,7 @@ export default function Home() {
           </nav>
           <a
             target="_blank"
-            href="https://play.google.com/store/apps/details?id=net.taza"
+            href="https://play.google.com/store/apps/details?id=#"
           >
             <Image
               alt="SARD Google Play"
